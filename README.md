@@ -3,12 +3,12 @@
 # Aldi Aldrian Jayeng
 - Merancang database
 - Membuat API
-- Mebuat class object UMKM pada codingan
+- Membuat class object UMKM pada codingan
 # Bilya Putra Aji
 - Membuat mockup aplikasi
-- Memuat desain sistem
+- Membuat desain sistem
 - Membuat codingan untuk melakukan request ke API dan menyimpan data request ke object UMKM
 # Muhammad Sabirin
 - Implemantasi desain ke codingan
 - membuat desaian sistem
-- Membuat service marker untuk menapilkan penanda di maps, dengan mengambil data dari object umkm
+- Membuat service marker untuk menampilkan penanda di maps, dengan mengambil data dari object umkm
